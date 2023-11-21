@@ -1,0 +1,53 @@
+Persona: Mark
+
+Background:
+
+Age: 19
+
+Education: Freshman student studying Mechanical Engineering at the University of Central Lancashire
+
+Color-Blind Type: Protanopia (Red-Green Color Blindness)
+
+Location: Suburban area
+
+Goals and Motivations:
+
+Accessible Learning: Seeks educational platforms that accommodate color-blindness to enhance learning experiences.
+
+Efficient Studies: Aims for interfaces allowing easy comprehension of color-coded information in his course materials.
+
+Challenges:
+
+Color Interpretation: Faces difficulty discerning between certain shades of red and green, especially in engineering diagrams or graphs.
+
+Information Accessibility: Struggles when crucial information is solely conveyed via color-coding in lectures or textbooks.
+
+Graph Misinterpretation: Sometimes misinterprets charts or graphs with color-based distinctions, affecting study comprehension.
+
+Preferences:
+
+Contrast-Friendly Design: Prefers interfaces with high contrast and clear labels or patterns for better differentiation.
+
+Symbolic Indicators: Values symbols or text alongside color-based information in engineering diagrams or schematics.
+
+Color-Blind Mode: Appreciates platforms offering a color-blind mode for better visibility in course materials.
+
+Behaviors:
+
+Prioritizing Accessibility: Chooses educational platforms or apps with inclusive designs, particularly in engineering-specific software.
+
+Adaptive Strategies: Utilizes browser extensions or settings that enhance color visibility for his studies.
+
+Quotes/Anecdotes:
+
+"Clear contrasts and additional labels in engineering diagrams make understanding course materials much easier for me."
+
+"Having a color-blind mode not only benefits my studies but supports inclusivity for everyone studying similar courses."
+
+Considerations for Mark's Educational Experience:
+
+Designing for Accessibility in Engineering Materials: Implementing high contrast, clear labels, and symbols alongside colors in diagrams or schematics.
+
+Alternative Indicators in Engineering Courses: Including text or symbols alongside color-coded information for better comprehension in engineering-specific content.
+
+Involvement in Usability Testing: Involving color-blind students, especially those studying technical courses, in testing to ensure interface clarity and accessibility in engineering-related educational tools.

@@ -1,0 +1,53 @@
+Persona: Emily
+
+Background:
+
+Age: 18
+
+Education: First-year student pursuing Computer Science at the University of Central Lancashire
+
+Location: Suburban area
+
+Deaf since: Childhood
+
+Goals and Motivations:
+
+Efficient Communication: Aims for seamless communication within systems to excel academically and socially in her university studies.
+
+Inclusivity: Values platforms that acknowledge and support diverse communication needs for a better educational experience.
+
+Challenges:
+
+Auditory Barriers: Unable to rely on auditory cues, potentially missing important information in lectures or discussions.
+
+Communication Hurdles: Struggles with systems primarily relying on audio-based instructions or alerts in educational settings.
+
+Dependency on Visuals: Relies heavily on visual cues and written communication, facing difficulties in settings where these aren't prioritized.
+
+Preferences:
+
+Visual Alerts: Prefers visual notifications or alerts for better engagement and understanding in lectures and academic materials.
+
+Clear Visual Interface: Requires a visually accessible interface with high contrast and legible typography for ease of navigation in university systems.
+
+Transcripts/Captions: Values the availability of captions or transcripts for audio content or instructions in educational materials at the university.
+
+Behaviors:
+
+Reliance on Visuals: Prefers sign language, written text, and visual cues for effective communication in academic settings.
+
+Tech-Savvy: Comfortable with technology but prioritizes systems catering to deaf individuals' needs for academic purposes.
+
+Quotes/Anecdotes:
+
+"Clear visuals and captions in academic systems make learning more accessible and interactive for me."
+
+"Accessible features not only aid my learning but create an inclusive environment for all students."
+
+Considerations for Emily's University Experience:
+
+Visual Accessibility in Academic Systems: Implementing clear visual cues, text-based information, and an intuitive interface for university's online platforms.
+
+Captioning and Transcripts for Lectures: Providing captions or transcripts for audio-based content in lectures and study materials.
+
+Inclusive University Development: Involving deaf students in testing and development for feedback on the accessibility of university platforms.
